@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "529DC99D-5E76-4074-A159-CCEF3865486B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "235378D5-0C06-4EB4-A20B-40AC92A3E661"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test_10-26/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "235378D5-0C06-4EB4-A20B-40AC92A3E661 - 8f3892cf475691e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_10_26.ViewController.__deallocating_deinit"
+                  moduleName = "Test_10-26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyarilrve/Desktop/Test_10-26/Test_10-26/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "235378D5-0C06-4EB4-A20B-40AC92A3E661 - cf092d07e09ec278"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_10_26.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Test_10_26.ViewController"
+                  moduleName = "Test_10-26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyarilrve/Desktop/Test_10-26/Test_10-26/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "235378D5-0C06-4EB4-A20B-40AC92A3E661 - e637c3d074a2ee35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_10_26.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Test_10_26.ViewController"
+                  moduleName = "Test_10-26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyarilrve/Desktop/Test_10-26/Test_10-26/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "386">
+               </Location>
+               <Location
+                  uuid = "235378D5-0C06-4EB4-A20B-40AC92A3E661 - 4070dbf78e3d350b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_10_26.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Test_10_26.ViewController&gt;"
+                  moduleName = "Test_10-26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyarilrve/Desktop/Test_10-26/Test_10-26/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "235378D5-0C06-4EB4-A20B-40AC92A3E661 - 7113492a32205c42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_10_26.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Test_10_26.ViewController&gt;"
+                  moduleName = "Test_10-26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyarilrve/Desktop/Test_10-26/Test_10-26/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
